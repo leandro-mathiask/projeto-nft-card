@@ -36,7 +36,7 @@ Mobile
 
 ### Links
 
-- URL da Solução: [GitHub Repositório](github.com/leandro-mathiask/projeto-nft-card)
+- URL da Solução: [GitHub Repositório](https://github.com/leandro-mathiask/projeto-nft-card.git)
 - URL do Site ao Vivo: [GitHub Page](https://leandro-mathiask.github.io/projeto-nft-card/)
 
 ## Meu Processo
